@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="GPTexamples20170809102926" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^H:\\git\\playersvoice\\GPT\ examples\\GPT\ examples\\obj\\Release\\netcoreapp1\.1\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>
